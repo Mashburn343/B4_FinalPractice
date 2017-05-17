@@ -2,8 +2,10 @@
 public class Runner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		Runner myRunner = new Runner();
+		Converter myConverter = new Converter();
+		
 	}
 
 }
